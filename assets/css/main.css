@@ -464,8 +464,8 @@
 }
 
 .header__logo-img {
-  width: 150px;
-  /* color: var(--white-color); */
+  width: 162px;
+  height: 50px;
 }
 
 .header__search {
