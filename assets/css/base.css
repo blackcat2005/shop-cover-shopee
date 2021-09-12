@@ -119,6 +119,8 @@ html {
   text-align: center;
   line-height: 36px;
   color: var(--text-color);
+  /* others */
+  cursor: pointer;
 }
 
 .btn.btn--size-s {
