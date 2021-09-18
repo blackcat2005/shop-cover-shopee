@@ -8,6 +8,7 @@
   --black-color: #000;
   --text-color: #333;
   --border-color: #dbdbdb;
+  --star-gold: #ffce3e;
 
   --header-height: 120px;
   --navbar-height: 34px;
@@ -42,16 +43,22 @@ html {
 .grid__row {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 -12px 0 -12px;
+  margin: 0 -5px 0 -5px;
 }
 
 .grid__column-2 {
-  padding: 0 12px 0 12px;
-  width: 16.667%;
+  padding: 0 5px 0 5px;
+  width: 16.666%;
 }
 .grid__column-10 {
-  padding: 0 12px 0 12px;
+  padding: 0 5px 0 5px;
   width: 83.333%;
+}
+
+.grid__column-2-5 {
+  padding: 0 5px 0 5px;
+  margin: 5px 0 5px 0;
+  width: 20%;
 }
 
 /* animation */
