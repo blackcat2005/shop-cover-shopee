@@ -215,6 +215,7 @@ html {
   height: 10px;
   /* display */
   position: absolute;
+  z-index: 1;
   left: 0;
   top: -8px;
 }
@@ -228,6 +229,7 @@ html {
   border-style: solid;
   /* display */
   position: absolute;
+  z-index: 1;
   left: 0;
   top: 38px;
   display: none;
