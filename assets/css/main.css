@@ -1571,3 +1571,8 @@
   width: calc(100% + 2px);
   height: 30px;
 }
+
+/* pagination */
+.home-product__pagination {
+  margin: 48px 0 32px 0;
+}
